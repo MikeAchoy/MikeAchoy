@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikeAchoy
 - 👀 I’m interested in software engineering, and learning new things.
 - 🌱 I’m currently learning java, and various python modules.
-- 💞️ I’m looking to collaborate on any interestinig projects, and helping people start building software.
+- 💞️ I’m looking to collaborate on any interesting projects, and helping people start building software.
 - 📫 How to reach me: miguel.andres.achoy@gmail.com
 
 <!---

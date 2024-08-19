@@ -1,6 +1,6 @@
 - 👋 I’m @MikeAchoy
-- 👀 I’m interested in AI and Computer Vision.
+- 👀 I’m interested in providing value and helping others build the future.
 - 🌱 Always learning, and growing.
 - 💞️ I'm always looking to contrubute.
-- 📫 How to reach me: mikeaberlanga@proton.me
+- 📫 How to reach me: machoyaberlanga@proton.me
 

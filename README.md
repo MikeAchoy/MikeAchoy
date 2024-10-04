@@ -29,9 +29,9 @@
 ## GitHub Stats 📊
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MikeAchoy&show_icons=true&count_private=true&hide=issues&hide_border=true&theme=radical" alt="MikeAchoy's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MikeAchoy&show_icons=true&count_private=true&hide=issues&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="MikeAchoy's GitHub Stats">
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeAchoy&layout=compact&hide_border=true&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeAchoy&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages">
 </p>

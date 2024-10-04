@@ -8,7 +8,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack 💻
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats 📊
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MikeAchoy&show_icons=true&count_private=true&hide=issues&hide_border=true&theme=radical" alt="MikeAchoy's GitHub Stats">

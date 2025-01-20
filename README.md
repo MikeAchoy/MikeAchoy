@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Miguel!
 
 💻 I'm an aspiring engineer with a passion for tech and a constant drive to learn and improve.  
-🎓 Studying Computer Engineering at Texas A&M International University.  
-🔧 Currently learning and working on backend system design, implementation, and integrating AI into projects!  
+🎓 Computer Engineering at Graduate.  
+🔧 Currently learning and working on backend system design, and integrating AI/ML into projects!  
 🌱 Always learning, and growing.  
 📫 How to reach me: miguel.andres.achoy@gmail.com 
 
